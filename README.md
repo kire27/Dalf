@@ -1,7 +1,4 @@
 
-# DailyHabits
-web app to track your habits, time activity and one-time tasks
-=======
 Dalf 
 Daily lifestyle, web app to track your habits and time activity.
 
@@ -50,4 +47,3 @@ tutorial
 kevin powerll
 https://www.youtube.com/watch?v=wYWf2m_yzBQ&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh
 
->>>>>>> 8409a29 (first commit)
