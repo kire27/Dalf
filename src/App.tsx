@@ -6,8 +6,17 @@ import { Route, Routes } from "react-router";
 import Home from "./pages/Home";
 import NotFound from "./pages/NotFound";
 
+import Counter from "./state/components/Counter";
+
 export function App() {
   const [count, setCount] = useState(0);
+
+  const numbers = [1, 2, 3];
+
+  const index = numbers.indexOf(2);
+  const added = [numbers.slice(0, index), 4, numbers.slice(index)];
+
+  console.log(...numbers);
 
   return (
     <div className="App">
@@ -27,6 +36,7 @@ export function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        <Counter />
         <p>
           Edit <code>src/App.tsx</code> and save to test HMR
         </p>

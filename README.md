@@ -3,10 +3,12 @@ Daily lifestyle, web app to track your habits and time activity.
 
 Resources
 
+
 // VITE
 
 Vite guide
 https://vitejs.dev/guide/
+
 
 // REACT
 
@@ -18,6 +20,7 @@ setting up vite, react and formatters
 coding garden
 https://www.youtube.com/watch?v=cchqeWY0Nak
 
+
 // REDUX
 
 redux crash course
@@ -28,10 +31,19 @@ redux project tutorial
 mosh
 https://www.youtube.com/watch?v=poQXNp9ItL4
 
+redux toolkit
+https://redux.js.org/introduction/why-rtk-is-redux-today
+
+redux toolkit tutorial 
+Dave Gray
+https://www.youtube.com/watch?v=u3KlatzB7GM&list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo
+
+
 // VITEST & TESTING LIBRARY
 
 Testing Library Docs
 https://testing-library.com/docs/queries/about
+
 
 // SASS
 
