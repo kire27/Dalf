@@ -1,7 +1,7 @@
 Dalf
 Daily lifestyle, web app to track your habits and time activity.
 
-Resources
+Resources:
 
 
 // VITE
@@ -60,3 +60,9 @@ SWR
 fetch data from API
 Dave Gray
 https://www.youtube.com/watch?v=6gb6oyO1Tyg
+
+
+FIREBASE
+
+firestore
+https://firebase.google.com/docs/firestore/query-data/get-data

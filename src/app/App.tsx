@@ -13,6 +13,8 @@ import { onAuthStateChanged } from "firebase/auth";
 import { auth, firestore, provider } from "../database/firebase-config";
 import Authenticate from "../components/Auth/Authenticate";
 
+import { sendData } from "../database/firestoreApi";
+
 export function App() {
     // const numbers = [1, 2, 3];
 
@@ -32,6 +34,14 @@ export function App() {
 
     //   getUsers();
     // }, []);
+
+    const [hook, setHook] = useState(0);
+
+    if (hook === 0) {
+        sendData();
+
+        setHook(1);
+    }
 
     return (
         <div className="App">
