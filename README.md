@@ -53,3 +53,10 @@ https://sass-lang.com/documentation/style-rules/declarations
 tutorial
 kevin powerll
 https://www.youtube.com/watch?v=wYWf2m_yzBQ&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh
+
+
+SWR
+
+fetch data from API
+Dave Gray
+https://www.youtube.com/watch?v=6gb6oyO1Tyg
