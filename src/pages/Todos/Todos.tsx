@@ -1,7 +1,7 @@
 import React from "react";
 
-function Tasks(props: undefined) {
+function Todos(props: undefined) {
     return <div></div>;
 }
 
-export default Tasks;
+export default Todos;

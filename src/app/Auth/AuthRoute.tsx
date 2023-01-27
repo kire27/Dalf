@@ -3,8 +3,7 @@ import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../../database/firebase-config";
 
-export default function Authenticate({ children }: any) {
-    const [userAuth, setUserAuth] = useState(false);
+export default function AuthRoute({ children }: any) {
     const [userAuthData, setUserAuthData] = useState({});
     const [isLoading, setIsLoading] = useState(true);
     const navigate = useNavigate();
@@ -31,7 +30,6 @@ export default function Authenticate({ children }: any) {
             photoURL: user.photoURL,
         });
         setIsLoading(false);
-        setUserAuth(true);
     };
 
     useEffect(() => {
@@ -40,14 +38,25 @@ export default function Authenticate({ children }: any) {
     }, [auth]);
 
     const AuthCheck = onAuthStateChanged(auth, (user) => {
+        setIsLoading(true);
         if (user) {
             console.log("authorized");
             console.log(user);
+            return;
         } else {
             clear();
             navigate("/login");
             console.log("unauthorized");
         }
+        setUserAuthData({
+            uid: user!.uid,
+            email: user!.email,
+            displayName: user!.displayName,
+            photoURL: user!.photoURL,
+        });
+        setIsLoading(false);
+
+        console.log(userAuthData);
     });
 
     return <>{children}</>;

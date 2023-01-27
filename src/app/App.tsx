@@ -1,19 +1,17 @@
 import { useState } from "react";
-import "../sass/App.sass";
+import "../sass/app.sass";
 import { Route, Routes } from "react-router";
-import Home from "./pages/Home";
+import Home from "../pages/Home/Home";
 import NotFound from "./NotFound";
 
-import { collection, getDocs } from "firebase/firestore";
-
-import AuthRoute from "../components/Auth/AuthRoute";
+import AuthRoute from "./Auth/AuthRoute";
 import Login from "./Login";
-import useFirebaseAuth from "../components/Auth/authentication";
+// import useFirebaseAuth from "./Auth/authentication";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth, firestore, provider } from "../database/firebase-config";
-import Authenticate from "../components/Auth/Authenticate";
+import Authenticate from "./Auth/AuthRoute";
 
-import { sendData } from "../database/firestoreApi";
+import { sendData } from "../pages/Todos/Data/firedataTodosApi";
 
 export function App() {
     // const numbers = [1, 2, 3];

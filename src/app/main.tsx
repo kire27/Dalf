@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import { App } from "./App";
-import { store } from "../state/store";
+import { store } from "../database/state/store";
 import { Provider } from "react-redux";
 import { BrowserRouter } from "react-router-dom";
 import "../sass/index.sass";
@@ -10,7 +10,7 @@ import { preload } from "swr";
 import {
     getTodos,
     todosUrlEndpoint as cacheKey,
-} from "../components/Todos/todosApi.jsx";
+} from "../pages/Todos/components/todosApi";
 
 preload(cacheKey, getTodos);
 
