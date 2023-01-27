@@ -87,8 +87,7 @@ https://choosealicense.com/
     [![Forks][forks-shield]][https://github.com/kire27/Dalf/network/members]
     [![Stargazers][stars-shield]][https://github.com/kire27/Dalf/stargazers]
     [![Issues][issues-shield]][https://github.com/kire27/Dalf/issues]
-    [![GNU GPLv3 License][license-shield]][license-url]
-    [![LinkedIn][linkedin-shield]][linkedin-url]
+    [![GNU GPLv3 License][license-shield]][https://github.com/kire27/Dalf/blob/main/LICENCE.txt]
 </div>
 
 
@@ -98,9 +97,7 @@ https://choosealicense.com/
     <a href="https://github.com/othneildrew/Best-README-Template">
         <img src="images/logo.png" alt="Logo" width="80" height="80">
     </a>
-
     <h3 align="center">Dalf</h3>
-
     <p align="center">
         A Daily lifestyle app to track your habits and time activity.
         <br />
@@ -136,8 +133,8 @@ https://choosealicense.com/
         <li><a href="#contributing">Contributing</a></li>
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
-        <li><a href="#acknowledgments">Acknowledgments</a></li>`
-        <li><a href="#resources">Resources</a></li>`
+        <li><a href="#acknowledgments">Acknowledgments</a></li>
+        <li><a href="#resources">Resources</a></li>
     </ol>
 </details>
 
@@ -165,11 +162,11 @@ Here are the features I want to build in:
 
 ### Built With
 
-* [![React][React.js]][React-url]
-* [![Vite][Vite.dev]][Vite-url]
-* [![Firebase][Firebase.google.com]][Firebase-url]
-* [![SWR][swr.vercel.com]][SWR-url]
-* [![Redux][Redux.js.org]][Redux-url]
+* [![React][React.js][https://Reactjs.org]]
+* [![Vite][vite][https://Vite.dev]]
+* [![Firebase][firebase][https://Firebase.google.com]]
+* [![SWR][swr][https://swr.vercel.com]]
+* [![Redux][redux][https://Redux.js.org]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
