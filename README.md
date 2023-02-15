@@ -5,7 +5,7 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![GNU GPLv3 License][license-shield]][linecnce-url]
+[![GNU GPLv3 License][license-shield]][license-url]
 
 
 <!-- PROJECT LOGO -->
