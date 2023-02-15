@@ -235,6 +235,8 @@ Project Link: [Dalf](https://github.com/kire27/Dalf)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
+Helpful resources I want to give credit to.
+
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
@@ -243,6 +245,7 @@ Project Link: [Dalf](https://github.com/kire27/Dalf)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+* [README template](https://github.com/othneildrew/Best-README-Template)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -250,7 +253,7 @@ Project Link: [Dalf](https://github.com/kire27/Dalf)
 
 
 <!-- RESOURCES -->
-## Resources
+## Used material
 
 * VITE
     * [Vite guide](https://vitejs.dev/guide/)
