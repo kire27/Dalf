@@ -185,22 +185,22 @@ Install these dependencies.
     npm install npm@latest -g
     ```
 * dependencies
-    "@fortawesome/fontawesome-svg-core": "^6.2.1",
-    <br>"@fortawesome/free-brands-svg-icons": "^6.2.1",
-    <br>"@fortawesome/free-solid-svg-icons": "^6.2.1",
-    <br>"@fortawesome/react-fontawesome": "^0.2.0",
-    <br>"@types/react-redux": "^7.1.25",
-    <br>"firebase": "^9.16.0",
-    <br>"fortawesome": "^0.0.1-security",
-    <br>"node": "^18.13.0",
-    <br>"react": "^18.2.0",
-    <br>"react-fontawesome": "^1.7.1",
-    <br>"react-hot-toast": "^2.4.0",
-    <br>"react-redux": "^8.0.5",
-    <br>"react-router-dom": "^6.7.0",
-    <br>"redux": "^4.2.0",
-    <br>"sass": "^1.57.1",
-    <br>"swr": "^2.0.1"
+    * "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    * "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    * "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    * "@fortawesome/react-fontawesome": "^0.2.0",
+    * "@types/react-redux": "^7.1.25",
+    * "firebase": "^9.16.0",
+    * "fortawesome": "^0.0.1-security",
+    * "node": "^18.13.0",
+    "react": "^18.2.0",
+    "react-fontawesome": "^1.7.1",
+    "react-hot-toast": "^2.4.0",
+    "react-redux": "^8.0.5",
+    "react-router-dom": "^6.7.0",
+    "redux": "^4.2.0",
+    "sass": "^1.57.1",
+    "swr": "^2.0.1"
 * dev dependencies
     "@reduxjs/toolkit": "^1.9.1",
     "@testing-library/jest-dom": "^5.16.5",
