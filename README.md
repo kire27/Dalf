@@ -95,9 +95,11 @@ https://choosealicense.com/
 <br />
 <div align="center">
     <a href="https://github.com/othneildrew/Best-README-Template">
-        <img src="images/logo.png" alt="Logo" width="80" height="80">
+        <img src="/media/kire/Data/Projects/React/Dalf/src/assets/logo/dalf-01.svg" alt="Logo" width="80" height="auto">
+        <img src="/media/kire/Data/Projects/React/Dalf/src/assets/logo/dalf-02.svg" alt="Logo" width="80" height="auto">
+        <br>
+        <img src="/media/kire/Data/Projects/React/Dalf/src/assets/logo/dalf-03.svg" alt="Logo" width="40" height="auto">
     </a>
-    <h3 align="center">Dalf</h3>
     <p align="center">
         A Daily lifestyle app to track your habits and time activity.
         <br />
