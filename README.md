@@ -49,7 +49,7 @@
         <li><a href="#license">License</a></li>
         <li><a href="#contact">Contact</a></li>
         <li><a href="#acknowledgments">Acknowledgments</a></li>
-        <li><a href="#resources">Resources</a></li>
+        <li><a href="#used-material">Used material</a></li>
     </ol>
 </details>
 
@@ -252,7 +252,7 @@ Helpful resources I want to give credit to.
 
 
 
-<!-- RESOURCES -->
+<!-- USED MATERIAL -->
 ## Used material
 
 * VITE
