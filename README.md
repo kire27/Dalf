@@ -1,13 +1,11 @@
 
 <a name="readme-top"></a>
 
-<div align="center">
-    [![Contributors][contributors-shield]][contributors-url]
-    [![Forks][forks-shield]][forks-url]
-    [![Stargazers][stars-shield]][stars-url]
-    [![Issues][issues-shield]][issues-url]
-    [![GNU GPLv3 License][license-shield]][linecnce-url]
-</div>
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![GNU GPLv3 License][license-shield]][linecnce-url]
 
 
 <!-- PROJECT LOGO -->
@@ -81,11 +79,11 @@ Here are the features I want to build in:
 
 ### Built With
 
-* [![React][React.js][React-url]]
-* [![Vite][Vite][Vite-url]]
-* [![Firebase][Firebase][Firebase-url]]
-* [![SWR][SWR][SWR-url]]
-* [![Redux][redux][Redux-url]]
+* [![React][React.js]][React-url]
+* [![Vite][Vite]][Vite-url]
+* [![Firebase][Firebase]][Firebase-url]
+* [![SWR][SWR]][SWR-url]
+* [![Redux][redux]][Redux-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
