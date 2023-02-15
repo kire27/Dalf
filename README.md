@@ -162,7 +162,7 @@ Here are the features I want to build in:
 
 ### Built With
 
-* ![React][React.js][React-url]
+* ![React][React.js](React-url)
 * ![Vite][Vite][Vite-url]
 * ![Firebase][Firebase][Firebase-url]
 * ![SWR][SWR][SWR-url]
