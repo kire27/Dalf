@@ -284,9 +284,9 @@ Project Link: [Dalf](https://github.com/kire27/Dalf)
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/kire27/Dalf/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: hhttps://github.com/kire27/Dalf/stargazers
+[stars-url]: https://github.com/kire27/Dalf/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: hhttps://github.com/kire27/Dalf/issues
+[issues-url]: https://github.com/kire27/Dalf/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/kire27/Dalf/blob/main/LICENCE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
