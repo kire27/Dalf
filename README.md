@@ -1,85 +1,4 @@
 
-Resources:
-
-
-// VITE
-
-Vite guide
-https://vitejs.dev/guide/
-
-
-// REACT
-
-react hooks
-fireship
-https://www.youtube.com/watch?v=TNhaISOUy6Q
-
-setting up vite, react and formatters
-coding garden
-https://www.youtube.com/watch?v=cchqeWY0Nak
-
-icons
-https://react-icons.github.io/react-icons/search?q=hat
-
-
-// REDUX
-
-redux crash course
-laith academy
-https://www.youtube.com/watch?v=9jULHSe41ls
-
-redux project tutorial
-mosh
-https://www.youtube.com/watch?v=poQXNp9ItL4
-
-redux toolkit
-https://redux.js.org/introduction/why-rtk-is-redux-today
-
-redux toolkit tutorial 
-Dave Gray
-https://www.youtube.com/watch?v=u3KlatzB7GM&list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo
-
-
-// VITEST & TESTING LIBRARY
-
-Testing Library Docs
-https://testing-library.com/docs/queries/about
-
-
-// SASS
-
-documentation
-https://sass-lang.com/documentation/style-rules/declarations
-
-tutorial
-kevin powerll
-https://www.youtube.com/watch?v=wYWf2m_yzBQ&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh
-
-
-SWR
-
-fetch data from API
-Dave Gray
-https://www.youtube.com/watch?v=6gb6oyO1Tyg
-
-
-FIREBASE
-
-firestore
-https://firebase.google.com/docs/firestore/query-data/get-data
-
-
-CHEATSHEET
-https://grid.malven.co/
-https://flexbox.malven.co/
-
-
-LICENCE
-
-https://choosealicense.com/
-
-
-
 <a name="readme-top"></a>
 
 <div align="center">
@@ -184,7 +103,7 @@ Install these dependencies.
     ```sh
     npm install npm@latest -g
     ```
-* dependencies
+* dependencies:
     * "@fortawesome/fontawesome-svg-core": "^6.2.1",
     * "@fortawesome/free-brands-svg-icons": "^6.2.1",
     * "@fortawesome/free-solid-svg-icons": "^6.2.1",
@@ -193,39 +112,39 @@ Install these dependencies.
     * "firebase": "^9.16.0",
     * "fortawesome": "^0.0.1-security",
     * "node": "^18.13.0",
-    "react": "^18.2.0",
-    "react-fontawesome": "^1.7.1",
-    "react-hot-toast": "^2.4.0",
-    "react-redux": "^8.0.5",
-    "react-router-dom": "^6.7.0",
-    "redux": "^4.2.0",
-    "sass": "^1.57.1",
-    "swr": "^2.0.1"
-* dev dependencies
-    "@reduxjs/toolkit": "^1.9.1",
-    "@testing-library/jest-dom": "^5.16.5",
-    "@testing-library/react": "^13.4.0",
-    "@types/react": "^18.0.27",
-    "@types/react-dom": "^18.0.10",
-    "@typescript-eslint/eslint-plugin": "^5.47.1",
-    "@typescript-eslint/parser": "^5.47.1",
-    "@vitejs/plugin-react-swc": "^3.0.1",
-    "axios": "^1.2.4",
-    "eslint": "^8.32.0",
-    "eslint-config-airbnb": "^19.0.4",
-    "eslint-config-prettier": "^8.5.0",
-    "eslint-plugin-import": "^2.26.0",
-    "eslint-plugin-jsx-a11y": "^6.5.1",
-    "eslint-plugin-prettier": "^4.2.1",
-    "eslint-plugin-react": "^7.28.0",
-    "eslint-plugin-react-hooks": "^4.3.0",
-    "gh-pages": "^4.0.0",
-    "jsdom": "^20.0.3",
-    "prettier": "^2.8.3",
-    "react-dom": "^18.2.0",
-    "typescript": "^4.9.3",
-    "vite": "^4.0.4",
-    "vitest": "^0.26.3"
+    * "react": "^18.2.0",
+    * "react-fontawesome": "^1.7.1",
+    * "react-hot-toast": "^2.4.0",
+    * "react-redux": "^8.0.5",
+    * "react-router-dom": "^6.7.0",
+    * "redux": "^4.2.0",
+    * "sass": "^1.57.1",
+    * "swr": "^2.0.1"
+* dev dependencies:
+    * "@reduxjs/toolkit": "^1.9.1",
+    * "@testing-library/jest-dom": "^5.16.5",
+    * "@testing-library/react": "^13.4.0",
+    * "@types/react": "^18.0.27",
+    * "@types/react-dom": "^18.0.10",
+    * "@typescript-eslint/eslint-plugin": "^5.47.1",
+    * "@typescript-eslint/parser": "^5.47.1",
+    * "@vitejs/plugin-react-swc": "^3.0.1",
+    * "axios": "^1.2.4",
+    * "eslint": "^8.32.0",
+    * "eslint-config-airbnb": "^19.0.4",
+    * "eslint-config-prettier": "^8.5.0",
+    * "eslint-plugin-import": "^2.26.0",
+    * "eslint-plugin-jsx-a11y": "^6.5.1",
+    * "eslint-plugin-prettier": "^4.2.1",
+    * "eslint-plugin-react": "^7.28.0",
+    * "eslint-plugin-react-hooks": "^4.3.0",
+    * "gh-pages": "^4.0.0",
+    * "jsdom": "^20.0.3",
+    * "prettier": "^2.8.3",
+    * "react-dom": "^18.2.0",
+    * "typescript": "^4.9.3",
+    * "vite": "^4.0.4",
+    * "vitest": "^0.26.3"
 
 ### Installation
 
@@ -318,8 +237,6 @@ Project Link: [Dalf](https://github.com/kire27/Dalf)
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Choose an Open Source License](https://choosealicense.com)
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Malven's Flexbox Cheatsheet](https://flexbox.malven.co/)
@@ -328,6 +245,35 @@ Use this space to list resources you find helpful and would like to give credit 
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
 * [React Icons](https://react-icons.github.io/react-icons/search)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+<!-- RESOURCES -->
+## Resources
+
+* VITE
+    * [Vite guide](https://vitejs.dev/guide/)
+    * [Vitest testing library docs](https://testing-library.com/docs/queries/about)
+* REACT
+    * [react hooks](https://www.youtube.com/watch?v=TNhaISOUy6Q) by fireship
+    * [setting up vite, react and formatters](https://www.youtube.com/watch?v=cchqeWY0Nak) by coding garden
+    * [icons](https://react-icons.github.io/react-icons/search?q=hat)
+* REDUX
+    * [redux crash course](https://www.youtube.com/watch?v=9jULHSe41ls) by laith academy
+    * [redux project tutorial](https://www.youtube.com/watch?v=poQXNp9ItL4) by mosh
+    * [redux toolkit](https://redux.js.org/introduction/why-rtk-is-redux-today)
+    * [redux toolkit tutorial](https://www.youtube.com/watch?v=u3KlatzB7GM&list=PL0Zuz27SZ-6M1J5I1w2-uZx36Qp6qhjKo) by Dave Gray
+* SASS
+    * [documentation](https://sass-lang.com/documentation/style-rules/declarations)
+    * [tutorial](https://www.youtube.com/watch?v=wYWf2m_yzBQ&list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh) by kevin powerll
+* SWR
+    * [fetch data from API](https://www.youtube.com/watch?v=6gb6oyO1Tyg) by Dave Gray
+* FIREBASE
+    * [firestore](https://firebase.google.com/docs/firestore/query-data/get-data)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
