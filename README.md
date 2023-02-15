@@ -162,11 +162,11 @@ Here are the features I want to build in:
 
 ### Built With
 
-* [![React][React.js][React-url]]
-* [![Vite][Vite][Vite-url]]
-* [![Firebase][Firebase][Firebase-url]]
-* [![SWR][SWR][SWR-url]]
-* [![Redux][redux][Redux-url]]
+* ![React][React.js][React-url]
+* ![Vite][Vite][Vite-url]
+* ![Firebase][Firebase][Firebase-url]
+* ![SWR][SWR][SWR-url]
+* ![Redux][redux][Redux-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
