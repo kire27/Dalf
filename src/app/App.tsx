@@ -1,4 +1,4 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import "../sass/app.sass";
 import { Route, Routes } from "react-router";
 import Home from "../pages/Home/Home";
@@ -12,6 +12,7 @@ import { auth, firestore, provider } from "../database/firebase-config";
 import Authenticate from "./Auth/AuthRoute";
 
 import { sendData } from "../pages/Todos/Data/firedataTodosApi";
+import { collection, doc, getDocs } from "firebase/firestore";
 
 export function App() {
     // const numbers = [1, 2, 3];
@@ -19,19 +20,19 @@ export function App() {
     // const index = numbers.indexOf(2);
     // const added = [numbers.slice(0, index), 4, numbers.slice(index)];
 
-    // const [users, setUsers] = useState([]);
+    const [users, setUsers] = useState([]);
     // const userCollectionRef = collection(firestore, "users");
 
-    // useEffect(() => {
-    //   const getUsers = async () => {
-    //     const data = await getDocs(userCollectionRef);
-    //     setUsers(data.docs.map((doc) => {
-    //       ...doc.data()
-    //     }));
-    //   };
+    useEffect(() => {
+      const getUsers = async () => {
+        const data = await getDocs(userCollectionRef);
+        setUsers(data.docs.map((doc) => {
+          ...doc.data()
+        }));
+      };
 
-    //   getUsers();
-    // }, []);
+      getUsers();
+    }, []);
 
     const [hook, setHook] = useState(0);
 
