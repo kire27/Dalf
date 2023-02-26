@@ -23,16 +23,16 @@ export function App() {
     const [users, setUsers] = useState([]);
     // const userCollectionRef = collection(firestore, "users");
 
-    useEffect(() => {
-      const getUsers = async () => {
-        const data = await getDocs(userCollectionRef);
-        setUsers(data.docs.map((doc) => {
-          ...doc.data()
-        }));
-      };
+    // useEffect(() => {
+    //   const getUsers = async () => {
+    //     const data = await getDocs(userCollectionRef);
+    //     setUsers(data.docs.map((doc) => {
+    //       ...doc.data()
+    //     }));
+    //   };
 
-      getUsers();
-    }, []);
+    //   getUsers();
+    // }, []);
 
     const [hook, setHook] = useState(0);
 
